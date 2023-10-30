@@ -1,0 +1,1 @@
+CALL GIT_TEST()
